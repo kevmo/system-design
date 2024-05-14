@@ -56,6 +56,7 @@ Strategies to handle growth in user base and data volume.
 
 ### Key Resources:
 - [Brewer's CAP Theorem](https://dl.acm.org/doi/10.1145/564585.564601)
+- [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 - [Sharding Patterns](https://www.microsoft.com/en-us/research/publication/a-shard-on-the-wild-side/)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://dataintensive.net/)
 - [Database Reliability Engineering: Designing and Operating Resilient Database Systems](https://www.oreilly.com/library/view/database-reliability-engineering/9781491925935/)
