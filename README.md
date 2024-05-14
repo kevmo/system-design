@@ -28,7 +28,6 @@ Understanding the basic principles and challenges is crucial before diving into 
 - [Architecture Patterns with Python](https://www.cosmicpython.com/)
 - [Scalability Rules: 50 Principles for Scaling Web Sites](https://www.scalabilityrules.com/)
 - [High Performance Browser Networking](https://hpbn.co/)
-- [Designing Data-Intensive Applications by Martin Kleppmann](https://dataintensive.net/)
 - [Patterns of Enterprise Application Architecture by Martin Fowler](https://martinfowler.com/books/eaa.html)
 - [Software Architecture Patterns by Mark Richards](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
 - [Clean Architecture by Robert C. Martin](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)
