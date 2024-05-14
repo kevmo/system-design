@@ -1,6 +1,6 @@
 # System Design
 
-Welcome to the System Design repository, where we explore foundational principles, advanced concepts, and the latest trends in designing scalable, efficient, and robust systems. This repository serves as a comprehensive guide and resource hub for students, professionals, and enthusiasts interested in system design.
+Foundational principles, advanced concepts, & latest trends in designing scalable, practical, and robust systems. 
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ Understanding the basic principles and challenges is crucial before diving into 
 
 ## Scalability
 
-Explore different strategies to handle growth in user base and data volume. We discuss real-world case studies from major tech companies.
+Strategies to handle growth in user base and data volume. 
 
 ### Key Resources:
 - [Martin Fowler on Scalability](https://martinfowler.com/scalability/)
@@ -55,8 +55,6 @@ Explore different strategies to handle growth in user base and data volume. We d
 
 ## Database Systems
 
-Compare and contrast different types of databases, emphasizing when each type is appropriate based on system requirements.
-
 ### Key Resources:
 - [Brewer's CAP Theorem](https://dl.acm.org/doi/10.1145/564585.564601)
 - [Sharding Patterns](https://www.microsoft.com/en-us/research/publication/a-shard-on-the-wild-side/)
@@ -72,6 +70,4 @@ Compare and contrast different types of databases, emphasizing when each type is
 - [Redis in Action](https://www.manning.com/books/redis-in-action)
 - [Practical MongoDB: Architecting, Developing, and Administering MongoDB](https://www.apress.com/gp/book/9781484206485)
 - [Cassandra: The Definitive Guide: Distributed Data at Web Scale](https://www.oreilly.com/library/view/cassandra-the-definitive/9781491933657/)
-
-## [Continue with similar sections for Caching Mechanisms, API Design, Microservices Architecture, Security Considerations, and Emerging Technologies and Future Trends]
 
